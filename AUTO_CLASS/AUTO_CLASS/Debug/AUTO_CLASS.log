@@ -1,0 +1,3 @@
+﻿  AUTO_CLASS.cpp
+c:\users\user\source\repos\auto_class\auto_class\auto_class.cpp(22): warning C4305: инициализация: усечение из "double" в "float"
+  AUTO_CLASS.vcxproj -> C:\Users\User\source\repos\AUTO_CLASS\Debug\AUTO_CLASS.exe
