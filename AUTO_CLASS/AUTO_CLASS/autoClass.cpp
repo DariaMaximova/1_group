@@ -39,6 +39,9 @@ Auto::~Auto()
 	std::cout << " Memory has been cleaned. Good bye." << std::endl;
 	delete type;
 	delete brand;
+	power = 0;
+	volume = 0;
+	price = 0;
 }
 
 void Auto::input() {
