@@ -2,10 +2,13 @@
 #include "pch.h"
 #include "autoClass.h"
 #include <iostream>
+#include <fstream>
 
+using namespace std;
 
 int main()
 {
+	ofstream fout ("auto.txt", ios_base::trunc);
 
 	Auto* BMW = new Auto ();
 	BMW->output();
@@ -30,9 +33,8 @@ int main()
 	Auto* cars = new Auto[3];
 	for (int i = 0; i < 3; i++) {
 		cars[i].input();
-		cars[i].output();
+		cars[i].foutput();
 	}
-
-
+	fout.close();
 }
 

@@ -1,3 +1,6 @@
-﻿  AUTO_CLASS.cpp
-c:\users\user\source\repos\auto_class\auto_class\auto_class.cpp(22): warning C4305: инициализация: усечение из "double" в "float"
+﻿  autoClass.cpp
+c:\users\user\source\repos\auto_class\auto_class\autoclass.cpp(89): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\auto_class\auto_class\autoclass.cpp(92): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\auto_class\auto_class\autoclass.cpp(95): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\auto_class\auto_class\autoclass.cpp(98): warning C4244: =: преобразование "float" в "int", возможна потеря данных
   AUTO_CLASS.vcxproj -> C:\Users\User\source\repos\AUTO_CLASS\Debug\AUTO_CLASS.exe

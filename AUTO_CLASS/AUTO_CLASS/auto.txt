@@ -1,0 +1,18 @@
+
+ Type is : car
+ Brand is : bmw
+ Power is : 99
+ Volume is : 90
+ Price is : 1475600
+
+ Type is : truck
+ Brand is : lexus
+ Power is : 999
+ Volume is : 87
+ Price is : 43556500
+
+ Type is : car
+ Brand is : lada
+ Power is : 88
+ Volume is : 223
+ Price is : 2012400
